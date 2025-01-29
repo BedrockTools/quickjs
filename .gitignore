@@ -1,4 +1,6 @@
 *.a
+/.vs/
+/out/
 .obj/
 tests/bjson.so
 examples/test_fib
